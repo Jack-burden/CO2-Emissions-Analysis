@@ -12,24 +12,6 @@ This project is a streamit web application that visualises data around co2 emiss
 - Interactive plotly visualisations
 - Filters for year, area, chart type, and x/y variables
 
-## Project Structure:
-
-ASSIGNMENT/
-│
-├── app.py                      # Streamlit web application code
-├── requirements.txt            # Dependencies for running the app
-├── requirements-dev.txt        # full dependencies run for project code
-├── pyproject.toml              # Project configuration file
-├── poetry.lock                 # Dependency lock file
-├── README.md                   # Project documentation
-│
-├── Data/                       # Dataset(s) used in the project
-│
-├── Notebooks/                  # Jupyter notebooks for analysis
-│   └── Analysis.ipynb
-│
-└── .venv/                      # Virtual environment (excluded in submission)
-
 # Setting up the project
 
 ## 1.Python Installation:
